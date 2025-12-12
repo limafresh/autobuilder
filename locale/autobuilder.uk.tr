@@ -1,0 +1,10 @@
+# textdomain: autobuilder
+Open Autobuilder menu=Відкрити меню Autobuilder
+Now click with the Autobuilder Wand (autobuilder:wand) tool on the block where the structure should begin=Тепер натисніть інструментом Паличка Autobuilder (autobuilder:wand) на блок де повинна починатися конструкція
+Autobuilder Wand=Паличка Autobuilder
+First, open /autobuilder=Для початку відкрийте autobuilder
+Block=Блок
+Size X=Розмір X
+Size Y=Розмір Y
+Size Z=Розмір Z
+Empty inside=Пустий усередині
